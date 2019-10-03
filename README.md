@@ -1,2 +1,3 @@
 # richierepo
-Foo bar
+
+This is my first public project
